@@ -1,0 +1,14 @@
+:root {
+  --text-preset-1-font-family: "Outfit", Helvetica;
+  --text-preset-1-font-weight: 700;
+  --text-preset-1-font-size: 24px;
+  --text-preset-1-letter-spacing: 0px;
+  --text-preset-1-line-height: 120.00000762939453%;
+  --text-preset-1-font-style: normal;
+  --text-preset-2-font-family: "Outfit", Helvetica;
+  --text-preset-2-font-weight: 400;
+  --text-preset-2-font-size: 15px;
+  --text-preset-2-letter-spacing: 0.20000000298023224px;
+  --text-preset-2-line-height: 140%;
+  --text-preset-2-font-style: normal;
+}
